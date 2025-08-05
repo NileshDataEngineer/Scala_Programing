@@ -3,7 +3,7 @@ package com.scala.basic.learning
 object Function_Composition {
   /*
    * Function composition is a way in which a function is mixed with other functions.
-   * During the composition the one function holds the reference to another function in order to fulfill it’s mission.
+   * During the composition the one function holds the reference to another function in order to fulfill itï¿½s mission.
    */
   def main(args: Array[String]) {
     println((add compose mis)(10))

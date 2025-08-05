@@ -1,4 +1,5 @@
 package com.scala.basic.learning
+
 import scala.collection.immutable._
 
 object List_Example {

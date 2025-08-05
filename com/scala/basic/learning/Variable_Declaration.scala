@@ -21,7 +21,7 @@ object Variable_Declaration {
     
     println("Furth Addition "+(x+y+z))
     
-    /*Scala’s String is built on Java’s String and adds additional features such as string interpolation to Java’s String.
+    /*Scalaï¿½s String is built on Javaï¿½s String and adds additional features such as string interpolation to Javaï¿½s String.
 Following example illustrates a string literal using $ operator */
 
     var name="Nilesh Shinde"
